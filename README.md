@@ -1,2 +1,4 @@
 # Super-Mario-Game
-Super Mario Clone Game in masm615 Assembly language 
+
+## About
+A Super Mario Clone Game made with masm615 Assembly language 
